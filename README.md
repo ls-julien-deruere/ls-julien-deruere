@@ -1,20 +1,50 @@
-Goals for this year:
+Goals for this year
 
-    List your major goals here! Sharing your goals with your manager & coworkers is really nice because it helps them see how they can support you in accomplishing those goals!
+- 2021
+
+      TODO
+
+- 2022
+
+      Making LSID products reliable (Monitoring, alert, Scalability)
+      Shareing basic ops knowledge with the LSID devs (K8s resources management, ArgoCD, Vault)
+
 
 Goals for next year
 
-    If it’s getting towards the end of the year, maybe start writing down what you think your goals for next year might be.
+- 2023
+
+      TODO
 
 Projects
 
-For each one, go through:
+- Red
 
-    What your contributions were (did you come up with the design? Which components did you build? Was there some useful insight like “wait, we can cut scope and do what we want by doing way less work” that you came up with?)
-    The impact of the project – who was it for? Are there numbers you can attach to it? (saved X dollars? shipped new feature that has helped sell Y big deals? Improved performance by X%? Used by X internal users every day?). Did it support some important non-numeric company goal (required to pass an audit? helped retain an important user?)
+      TODO
 
-Remember: don’t forget to explain what the results of you work actually were! It’s often important to go back a few months later and fill in what actually happened after you launched the project.
-Collaboration & mentorship
+- Leeroy
+
+      TODO
+
+- Kumo
+
+      TODO
+
+- LSID (Auth-gateway, Api-gatewat, Identity-service, Lightspeed-id)
+
+      TODO
+
+[//]: # (For each one, go through:)
+
+[//]: # ()
+[//]: # (    What your contributions were &#40;did you come up with the design? Which components did you build? Was there some useful insight like “wait, we can cut scope and do what we want by doing way less work” that you came up with?&#41;)
+
+[//]: # (    The impact of the project – who was it for? Are there numbers you can attach to it? &#40;saved X dollars? shipped new feature that has helped sell Y big deals? Improved performance by X%? Used by X internal users every day?&#41;. Did it support some important non-numeric company goal &#40;required to pass an audit? helped retain an important user?&#41;)
+
+[//]: # ()
+[//]: # (Remember: don’t forget to explain what the results of you work actually were! It’s often important to go back a few months later and fill in what actually happened after you launched the project.)
+
+[//]: # (Collaboration & mentorship)
 
 Examples of things in this category:
 
