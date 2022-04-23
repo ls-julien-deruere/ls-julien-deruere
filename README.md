@@ -4,9 +4,12 @@
 
 - 2020
 
-      Migration of Golf product from Heroku to GCP, in the meanwhile, I improved the CD pipeline based on their needs (ephemeral environment, logs etc)
+      Migrate the Golf product from Heroku to GCP (Docker integration, Helm chart, Terraform, Vault)  
+      Helped Golf developers to get used to the new eco-system.
+      In the meanwhile, I improved the CD pipeline based on their needs (ephemeral environment, logs etc)
 
-      Red finalization, adding multiple features and making it robust. Also refactored the whole project.
+      Red finalization, adding multiple features (Zoom integration, Zendesk queue...) and making it production ready. 
+      Also refactored the whole project since it has been developped by an intern.
 
 - 2021
 
@@ -24,7 +27,7 @@
       Refactor citizen-operator to take care of connecting a citizen to it's outer world: https://miro.com/app/board/uXjVORX9y-I=/
       
       Making LSID products reliable (Monitoring, alert, Scalability)
-      Shareing basic ops knowledge with the LSID devs (K8s resources management, ArgoCD, Vault)
+      Sharing basic ops knowledge with the LSID devs (K8s resources management, ArgoCD, Vault)
 
 
 ### Goals for next year
@@ -49,7 +52,7 @@
 
       TODO
 
-- LSID (Auth-gateway, Api-gatewat, Identity-service, Lightspeed-id)
+- LSID (Auth-gateway, Api-gateway, Identity-service, Lightspeed-id)
 
       TODO
 
