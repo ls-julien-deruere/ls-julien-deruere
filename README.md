@@ -11,6 +11,8 @@
       Red finalization, adding multiple features (Zoom integration, Zendesk queue...) and making it production ready. 
       Also refactored the whole project since it has been developped by an intern.
 
+      Getting more expertise on tools like Terraform or on K8s platform (Ops knowledge), as I am coming from the Dev world.
+
 - 2021
 
       Developing the K8s citizen-operator to initialize citizen inside a K8s cluster (init namespace, role creation etc)
@@ -111,6 +113,11 @@
 
 [//]: # (It’s really easy to lose track of what skills you’re learning, and usually when I reflect on this I realize I learned a lot more than I thought and also notice things that I’m not learning that I wish I was.)
 
+    I worked as a developper almost all my carreer, it was 2 years before LS that I started to learn K8s/GCP and ops environment.
+    At LS I had to get a K8s advanced level, on top of all the GKE related features.
+
+    In infra-sre, the main used language was Golang, I went from zero to hero, now being very fluent and having a good vision of the Golang environment (tooling, deployment, etc)
+
 ### Outside of work
 
 [//]: # (It’s also often useful to track accomplishments outside of work, like:)
@@ -123,8 +130,15 @@
 
 [//]: # (This can also include other non-career-related things you’re proud of, if that feels good to you! Some people like to keep a combined personal + work brag document.)
 
+    Outside of work, I like to work on some personnal projects, mostly using technologies which are not used in LS like Quarkus/Kotlin.
+    It help me to stay up-to-date with all the development good pratices, lastest frameworks, new Language features, etc.
+
 ### General prompts
 
 [//]: # (If you’re feeling stuck for things to mention, try:)
 [//]: # (    If you were trying to convince a friend to come join your company/team, what would you tell them about your work?)
 [//]: # (    Did anybody tell you that you did something well recently?)
+ 
+    Since I joined Lightspeed, I prooved that I can be a strong SRE as much as a strong Developper.
+    I helped to company deployed services faster, in a reliable fashion, in a secure environment.
+    I try my best to achieve the goal one Lightspeed by propagated good pratice and unified tools across all the services and I hope I can continue on this way.
