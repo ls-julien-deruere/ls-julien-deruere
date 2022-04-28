@@ -22,7 +22,7 @@
 
 - 2022
 
-      Integrated Kumo citizen with Vault v2 using External-secrets operator and deprecated the in house secret-fetcher
+      Integrated Kumo & Miku with Vault v2 using External-secrets operator and deprecated the in house secret-fetcher
     
       Implements K8s auth backend in Vault v2 and K8s authentication for Citizen through the gaia-google-gke module + citizen-operator
  
