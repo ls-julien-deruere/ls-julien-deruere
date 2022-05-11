@@ -20,6 +20,8 @@
 
       Improving the CD pipeline (multi-region, etc)
 
+      Starting to lead scrum meeting, groming, and sprint planning
+
 - 2022
 
       Integrated Kumo & Miku with Vault v2 using External-secrets operator and deprecated the in house secret-fetcher
